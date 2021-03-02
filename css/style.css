@@ -210,6 +210,7 @@ Four rows: 400px, 425px, 425px, and 400px
     display: grid;
     grid-template-columns: 50px auto 500px auto 50px;
     grid-template-rows: 400px 425px 425px 400px;
+    grid-row-gap: 20px;
   }
 
   /*Req 12*/
